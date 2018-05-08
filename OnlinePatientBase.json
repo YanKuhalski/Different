@@ -1,0 +1,28 @@
+{
+  "hospital": [
+    {
+      "name": "Victor",
+      "secondName": "Hedman",
+      "birthday": "01-01-1992",
+      "healthy": "здоров"
+    },
+    {
+      "name": "Вероника",
+      "secondName": "Жданок",
+      "birthday": "11-04-1996",
+      "healthy": "здоров"
+    },
+    {
+      "name": "Sidney",
+      "secondName": "Crosby",
+      "birthday": "27-08-1986",
+      "healthy": "здоров"
+    },
+    {
+      "name": "Anton",
+      "secondName": "Strolman",
+      "birthday": "05-05-1990",
+      "healthy": "нездоров"
+    }
+  ]
+}
