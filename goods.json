@@ -1,0 +1,29 @@
+{
+  "goods": [
+    {
+      "name": "Shampuu",
+      "amount": 3,
+      "priceForEach": 3.4
+    },
+    {
+      "name": "Aple",
+      "amount": 2,
+      "priceForEach": 2.4
+    },
+    {
+      "name": "Orange",
+      "amount": 1,
+      "priceForEach": 3
+    },
+    {
+      "name": "Melon",
+      "amount": 5,
+      "priceForEach": 1
+    },
+    {
+      "name": "Banano",
+      "amount": 1,
+      "priceForEach": 3.4
+    }
+  ]
+}
