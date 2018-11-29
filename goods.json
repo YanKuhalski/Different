@@ -31,6 +31,11 @@
       "priceForEach": 11.1
     },
     {
+      "name": "Shoes",
+      "amount": 14,
+      "priceForEach": 12.1
+    },
+    {
       "name": "Banana",
       "amount": 12,
       "priceForEach": 3.4
