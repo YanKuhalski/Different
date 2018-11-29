@@ -2,17 +2,17 @@
   "goods": [
     {
       "name": "Shampoo",
-      "amount": 3,
+      "amount": 31,
       "priceForEach": 3.4
     },
     {
       "name": "Apple",
-      "amount": 2,
+      "amount": 21,
       "priceForEach": 2.4
     },
     {
       "name": "Orange",
-      "amount": 1,
+      "amount": 11,
       "priceForEach": 3
     },
     {
@@ -21,18 +21,18 @@
       "priceForEach": 1
     },
     {
-      "name": "Shirt",
+      "name": "White shirt",
       "amount": 13,
       "priceForEach": 11
     },
     {
-      "name": "Shirt",
-      "amount": 134,
-      "priceForEach": 11
+      "name": "Black shirt",
+      "amount": 34,
+      "priceForEach": 11.1
     },
     {
-      "name": "Bananа",
-      "amount": 1,
+      "name": "Banana",
+      "amount": 12,
       "priceForEach": 3.4
     }
   ]
