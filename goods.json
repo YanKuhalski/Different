@@ -1,12 +1,12 @@
 {
   "goods": [
     {
-      "name": "Shampuu",
+      "name": "Shampoo",
       "amount": 3,
       "priceForEach": 3.4
     },
     {
-      "name": "Aple",
+      "name": "Apple",
       "amount": 2,
       "priceForEach": 2.4
     },
@@ -21,7 +21,17 @@
       "priceForEach": 1
     },
     {
-      "name": "Banano",
+      "name": "Shirt",
+      "amount": 13,
+      "priceForEach": 11
+    },
+    {
+      "name": "Shirt",
+      "amount": 134,
+      "priceForEach": 11
+    },
+    {
+      "name": "Bananа",
       "amount": 1,
       "priceForEach": 3.4
     }
